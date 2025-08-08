@@ -1,7 +1,9 @@
-# From-Mess-to-Model-Bank-Churn-Data-Transformation-Insights
+# From Mess to Model Bank Churn Data Transformation Insights
 # Customer Churn Data Analysis
+<p align="center">
+  <img src="bank churn analysis project/Images/cover.png"  width="800"/>
+</p>
 
-![Project Cover](cover_image.png)
 
 ## 🔍 About this Project
 This project demonstrates a complete **data preparation and exploratory data analysis (EDA) workflow** using a fictional bank’s **customer churn dataset**.  
